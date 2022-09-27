@@ -1,0 +1,26 @@
+{
+  "name": "meanauthapp",
+  "version": "1.0.0",
+  "description": "learning the mean stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "bootstrap": "^5.2.1",
+    "cors": "*",
+    "express": "*",
+    "express-session": "^1.17.3",
+    "flash-messages-angular": "^4.0.1",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "ngx-bootstrap": "^9.0.0",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "author": "Divine203",
+  "license": "ISC"
+}
